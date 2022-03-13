@@ -23,7 +23,7 @@ I'm a software engineer who graduated from the University of Utah in computer sc
 <ul>
   <li>I'm currently a software engineer at <a href="https://qwick.com">Qwick</a>.</li>
   <li>Learning  
-  <a href="https://ocaml.org">Ocaml<a> and <a href="https://reasonml.github.io">ReasonML<a> for my job.</li>
+  <a href="https://ocaml.org">OCaml<a> and <a href="https://reasonml.github.io">ReasonML<a> for my job.</li>
   <li>Diving deeper on FP theory and <a href="https://haskell.org">Haskell</a>.</li>
 </ul>
 
