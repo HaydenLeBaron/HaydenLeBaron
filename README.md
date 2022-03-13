@@ -127,7 +127,7 @@ I'm a software engineer who graduated from the University of Utah in computer sc
 
 <hr />
 
-<h2 align="center">Other</h2>
+<h2 align="center">Soft Skills</h2>
 
 <h4>Favorite Flavor of Ice Cream</h4>
   <a href="https://en.wikipedia.org/wiki/Cookies_and_cream" target="_blank"><img src="https://img.shields.io/badge/Cookies_and_Cream-FFFFFF?logo=ice-cream&logoColor=black&style=for-the-badge" alt="Cookies & Cream" /><a>
