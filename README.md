@@ -92,19 +92,9 @@ I'm a software engineer who graduated from the University of Utah in computer sc
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=HaydenLeBaron&theme=github_dark" alt="Stats" />
 </p>
 
-
-
-<h4>Editors</h4>
-<p>
-  <a href="https://github.com/hlissner/doom-emacs" target="_blank"><img src="https://img.shields.io/badge/Emacs-7F5AB6?logo=gnu-emacs&logoColor=white&style=for-the-badge" alt="Emacs" /><a>
-  <a href="https://www.vim.org" target="_blank"><img src="https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white" alt="Vim" /><a>
-  <a href="https://code.visualstudio.com" target="_blank"><img src="https://img.shields.io/badge/VSCode-007ACC?logo=visual-studio-code&logoColor=white&style=for-the-badge" alt="VSCode" /><a>
-</p>
-
 <hr />
 
 <h2 align="center">Other technologies</h2>
-
 
 <h4>Have used, but not currently using</h4>
 <p>
@@ -129,6 +119,12 @@ I'm a software engineer who graduated from the University of Utah in computer sc
 <hr />
 
 <h2 align="center">Soft Skills</h2>
+    
+<h4>Fite me</h4>
+<p>
+<a href="https://github.com/hlissner/doom-emacs" target="_blank"><img src="https://img.shields.io/badge/Emacs-7F5AB6?logo=gnu-emacs&logoColor=white&style=for-the-badge" alt="Emacs" /><a> >
+<a href="https://www.vim.org" target="_blank"><img src="https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white" alt="Vim" /><a>
+</p>
 
 <h4>Favorite Flavor of Ice Cream</h4>
   <a href="https://en.wikipedia.org/wiki/Cookies_and_cream" target="_blank"><img src="https://img.shields.io/badge/Cookies_and_Cream-FFFFFF?logo=ice-cream&logoColor=black&style=for-the-badge" alt="Cookies & Cream" /><a>
