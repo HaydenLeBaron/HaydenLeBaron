@@ -126,7 +126,7 @@ I'm a software engineer who graduated from the University of Utah in computer sc
 <h4>Fite me</h4>
 <p>
 <a href="https://github.com/hlissner/doom-emacs" target="_blank"><img src="https://img.shields.io/badge/Emacs-7F5AB6?logo=gnu-emacs&logoColor=white&style=for-the-badge" alt="Emacs" /><a> <b>></b>
-<a href="https://www.vim.org" target="_blank"><img src="https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white" alt="Vim" /><a>
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank"><img src="https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white" alt="Vim" /><a>
 </p>
   
 </details>
