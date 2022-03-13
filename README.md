@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Hayden LeBaron!</h1>
 <a href="https://www.urbandictionary.com/define.php?term=FML" target="_blank"><img src="https://img.shields.io/badge/my%20life-tests%20failed%3A%20314%2C%20passed%3A%2015926%2C%20ignored%3A53-red" /></a>
+<h1 align="center">Hi 👋, I'm Hayden LeBaron!</h1>
 <p  align="center"><a href="http://haydenlebaron.com">haydenlebaron.com</a></p>
 <p align="center">
   <a href="http://discordapp/users/437821301432778752" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
