@@ -49,7 +49,7 @@ I'm a software engineer who graduated from the University of Utah in computer sc
   <a href="https://www.python.org" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /><a>
   <a href="https://en.wikipedia.org/wiki/JavaScript" target="_blank"><img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" /><a>
   <a href="https://graphql.org" target="_blank"><img src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL" /><a>
-  <a href="https://https://en.wikipedia.org/wiki/SQL" target="_blank"><img src="https://img.shields.io/badge/SQL-00000?style=for-the-badge&logo=graphql&logoColor=white" alt="SQL" /><a>
+  <a href="https://https://en.wikipedia.org/wiki/SQL" target="_blank"><img src="https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=sql&logoColor=white" alt="SQL" /><a>
 
 </p>
 
