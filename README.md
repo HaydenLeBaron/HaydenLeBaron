@@ -92,6 +92,9 @@ I'm a software engineer who graduated from the University of Utah in computer sc
     <a href="https://github.com/HaydenLeBaron?tab=repositories" target="_blank"><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HaydenLeBaron&theme=github_dark" alt="Top languages" /><a>
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=HaydenLeBaron&theme=github_dark" alt="Stats" />
 </p>
+<p>
+Much of my work is on <a href="https://gitlab.com/HaydenLeBaron" target="_blank"><img src="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab" /></a>  
+</p>
 
 <hr />
 
