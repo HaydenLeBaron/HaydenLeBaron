@@ -28,12 +28,6 @@ I'm a software engineer who graduated from the University of Utah in computer sc
   <li>Diving deeper on FP theory and <a href="https://haskell.org">Haskell</a>.</li>
 </ul>
 
-<h3>Projects I want to contribute to</h3>
-
-<ul>
-  <li><a href="https://github.com/melange-re/melange">melange</a>, A fork of the ReScript compiler with a focus on compatibility with the wider OCaml ecosystem.</li>
-</ul>
-
 <hr />
 
 <h2 align="center">Technologies I use</h2>
