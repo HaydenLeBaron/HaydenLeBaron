@@ -21,10 +21,7 @@ I'm a software engineer who graduated from the University of Utah in computer sc
 <h3>What am I currently working on</h3>
 
 <ul>
-  <li><a href="https://qwick.com">Qwick</a>'s web and mobile React[/Native] applications.</li>
-  <li>Learning  
-  <a href="https://ocaml.org">OCaml<a> and <a href="https://reasonml.github.io">ReasonML<a> for my job.</li>
-  <li>Diving deeper on FP theory and <a href="https://haskell.org">Haskell</a>.</li>
+TODO: Updateme
 </ul>
 
 <hr />
