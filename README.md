@@ -15,7 +15,7 @@
 </p>
 
 <p>
-I'm a software engineer who graduated from the University of Utah in computer science at the end of December 2021. Coffee and functional programming get me out of bed in the morning. Besides programming, I enjoy piano comp/improv, dirt biking, <a href="https://www.reddit.com/r/conlangs/">conlanging</a>, <a href="https://en.wikipedia.org/wiki/Zettelkasten">zettelkasten</a>, and <a href="https://en.wikipedia.org/wiki/Attack_on_Titan">great stories</a>.
+I'm a software engineer who graduated from the University of Utah in computer science at the end of December 2021. Coffee and functional programming get me out of bed in the morning. Besides programming, I enjoy piano comp/improv, dirt biking, <a href="https://www.reddit.com/r/conlangs/">conlanging</a>, <a href="https://en.wikipedia.org/wiki/Zettelkasten">zettelkasten</a>, and <a href="https://en.wikipedia.org/wiki/Attack_on_Titan">great literature</a>.
 </p>
 
 <hr />
