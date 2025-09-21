@@ -58,16 +58,6 @@ I'm a software engineer who graduated from the University of Utah in computer sc
 -->
 </p>
 
-<h4>DevOps</h4>
-<p>
-  <a href="https://www.docker.com" target="_blank"><img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" /><a>
-  <a href="https://aws.amazon.com" target="_blank"><img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" /><a>
-  <a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Shell" /><a>
-  <a href="https://github.com/torvalds/linux" target="_blank"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" /><a>
-  <a href="https://git-scm.com" target="_blank"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" /><a>
-</p>
-
-
 <details>
   <summary>More</summary>
 
