@@ -66,7 +66,7 @@ Much of my work is on <a href="https://gitlab.com/HaydenLeBaron" target="_blank"
 
 <hr />
 
-<h2 align="center">Other technologies</h2>
+<h3 align="left">Other technologies</h3>
 
 <h4>Have used, but not currently using</h4>
 <p>
