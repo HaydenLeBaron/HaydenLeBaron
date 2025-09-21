@@ -1,4 +1,3 @@
-<p  align="center"><a href="http://haydenlebaron.com">haydenlebaron.com</a></p>
 <p align="center">
   <a href="http://discordapp/users/437821301432778752" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
   <a href="https://www.linkedin.com/in/hayden-lebaron-740074163/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
