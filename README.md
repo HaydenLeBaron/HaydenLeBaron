@@ -85,31 +85,4 @@ Much of my work is on <a href="https://gitlab.com/HaydenLeBaron" target="_blank"
   <a href="https://www.ros.org" target="_blank"><img src="https://img.shields.io/badge/ros-%230A0FF9.svg?style=for-the-badge&logo=ros&logoColor=white" alt="ROS"/></a>
 <p>
 
-<h4>Plan to learn in the not-too-distant-future</h4>
-<p>
-  <a href="https://docs.soliditylang.org/en/v0.8.12/" target="_blank"><img src="https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white" alt="Solidity" /><a>
-  <a href="https://developers.cardano.org/docs/smart-contracts/plutus/" target="_blank"><img src="https://img.shields.io/badge/Plutus-1B317A?style=for-the-badge&logo=Plutus&logoColor=white" alt="Plutus" /><a>
-  <a href="https://kubernetes.io" target="_blank"><img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" /></a>
-</p>
-
-<hr />
-
-<h2 align="center">Soft Skills</h2>
-
-<h4>Favorite Flavor of Ice Cream</h4>
-  <a href="https://en.wikipedia.org/wiki/Cookies_and_cream" target="_blank"><img src="https://img.shields.io/badge/Cookies_and_Cream-FFFFFF?logo=ice-cream&logoColor=black&style=for-the-badge" alt="Cookies & Cream" /><a>
-
-<h4>Fite me</h4>
-<p>
-<a href="https://github.com/hlissner/doom-emacs" target="_blank"><img src="https://img.shields.io/badge/Emacs-7F5AB6?logo=gnu-emacs&logoColor=white&style=for-the-badge" alt="Emacs" /><a> <b>></b>
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank"><img src="https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white" alt="Vim" /><a>
-</p>
-  
-</details>
-
-<!--
-<a href="https://bitcoin.org/en/" target="_blank"><img src="https://img.shields.io/badge/Bitcoin-000?style=for-the-badge&logo=bitcoin&logoColor=white" alt="Bitcoin" /><a>
-<a href="https://ethereum.org/en/" target="_blank"><img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white" alt="Ethereum" /><a>
-<a href="https://cardano.org" target="_blank"><img src="https://img.shields.io/badge/Cardano-1B317A?style=for-the-badge&logo=Cardano&logoColor=white" alt="Cardano" /><a>
--->
 
