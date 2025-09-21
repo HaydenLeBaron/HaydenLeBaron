@@ -1,4 +1,3 @@
-<h1 align="center">Hi 👋, I'm Hayden LeBaron!</h1>
 <p  align="center"><a href="http://haydenlebaron.com">haydenlebaron.com</a></p>
 <p align="center">
   <a href="http://discordapp/users/437821301432778752" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
