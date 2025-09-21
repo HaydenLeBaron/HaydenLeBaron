@@ -14,7 +14,7 @@
 
 <hr />
 
-<h2 align="center">Technologies I use</h2>
+<h3 align="left">Technologies I use</h3>
 
 <h4>Languages</h4>
 <p>
